@@ -3,4 +3,4 @@ image:
 
 tasks:
   - init: ./net.akehurst.kotlin.example.addressbook/gradlew build -Pclient=angular
-    command: ./net.akehurst.kotlin.example.addressbook/gradlew run -Pclient=angular
+    command: cd net.akehurst.kotlin.example.addressbook/ && ./gradlew run -Pclient=angular
