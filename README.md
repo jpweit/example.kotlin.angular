@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/dhakehurst/example.kotlin.angular)
+
 [![Build Status](https://travis-ci.com/dhakehurst/example.kotlin.angular.svg?branch=master)](https://travis-ci.com/dhakehurst/example.kotlin.angular)
 
 # example.kotlin.angular
