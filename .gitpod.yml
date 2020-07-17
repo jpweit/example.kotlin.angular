@@ -2,5 +2,5 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - init: cd net.akehurst.kotlin.example.addressbook
-    command: ./gradlew run -Pclient=angular
+  - init: ./net.akehurst.kotlin.example.addressbook/gradlew build -Pclient=angular
+    command: ./net.akehurst.kotlin.example.addressbook/gradlew run -Pclient=angular
